@@ -1,0 +1,47 @@
+html{
+font-family: sans-serif;
+}
+*{
+	box-sizing: border-box;
+}
+
+
+.grand{
+width: 320px;
+height: 310px;
+background-color: slategray;
+border-top-style: dashed;
+border-bottom-style: dashed;
+border-right-style: solid;
+border-left-style: solid;
+border-top-width: 5px;
+border-bottom-width: 5px;
+border-right-width: 10px;
+border-left-width: 10px;
+
+
+}
+.petit1{
+width: 100px;
+height: 100px;
+background-color: yellow;
+margin-top: 50px;
+margin-left: 150px;
+border-style: solid;
+border-width: 5px;
+font-size: 4em;
+padding-left: 10px;
+line-height: 90px;
+
+}
+.petit2{
+width: 100px;
+height: 100px;
+background-color: deepskyblue;
+margin-left: 50px;
+border-style: solid;
+border-width: 5px;
+font-size: 4em;
+padding-left: 10px;
+line-height: 90px;
+}
